@@ -1,0 +1,116 @@
+@font-face {
+     font-family: 'Berlin Sans FB';
+     src: local('../fonts/BRLNSR.TTF'), url('../fonts/BRLNSR.TTF');
+}
+
+#todo{    width: 100%;     margin: 0 auto;}
+
+#header{    width: 100%;    border: 1px transparent solid;    z-index: 9999;	position: fixed;}
+
+.menu_area{	position: absolute;	left:0;	right: 0;	top: 0;}
+
+.navbar-default {  background-color: white;  padding: 12px 0px;}
+
+#navbar{overflow-x: hidden;}
+
+.navbar-brand {   color:#32D0E5 !important;  font-size:18px;     font-family: 'Acme', sans-serif;     }                                                                                                                                                                                                                                                                                                                                                                                        	
+	
+.navbar-default .navbar-nav > .active > a, .navbar-default 
+.navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {  background-color: transparent;}
+
+.navbar-default .navbar-nav > li > a {  color: #32D0E5 !important; font-size: 18px;  text-transform: uppercase; 
+
+ font-family: 'Acme', sans-serif;}
+
+.navbar-default .navbar-nav > li > a:hover{  text-transform: uppercase;}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {  background-color: white;  
+
+color: #32D0E5 !important;}
+
+.login { margin-top: -20px; }
+
+.login img{ height: 25px;}
+
+.logo{	margin-top:-25px;	width: 200px;	height:60px;}
+
+#banner{    width: 100%; height: 600px;    background-image: url('../image/banner.png');
+
+background-size: cover;    border: 1px transparent solid;    margin: 0 auto;    padding-top: 80px;    margin-top: 35px;}
+
+#banner h1 {    text-align: center;       color: white;    font-family: 'Berlin Sans FB';    font-size: 40px; }
+
+#banner p a {  text-decoration: none;  color: white;  display: block;  text-align: center;  font-family: 'Berlin Sans FB';  
+
+font-size: 25px;    border: 1px white solid;    margin:0 auto;  padding: 30px;    width: 450px;
+
+max-width: 100%; margin-right: : -180px;  margin-top: 30px; }
+
+.layout {padding-top: 30px;    width: 1000px;    max-width: 100%;    margin: 0 auto; }
+
+.layout h1{    font-family: 'Berlin Sans FB';    font-size: 24px;    text-align: left;    color: #32D0E5; }
+
+#about-imagem img{    width: 280px;    height: 400px; }
+
+#about p{  font-family: 'Berlin Sans FB';    font-size: 18px;    text-align: justify;    margin-top: 20px;    font-weight: normal; }
+
+
+#services .col-lg-4{ border:1px #64D9E6 solid;  height: 180px;  width:330px;  max-width: 100%; margin-top: 10px; padding-top:5px; }
+
+#services .col-lg-4 img{    display: block;    margin: 0 auto;    padding-top: 40px;    max-width: 100%;    max-height: 100%; }
+
+
+#works .col-lg-4{    border:1px #64D9E6 solid;    height: 300px;    width:330px;    max-width: 100%;    margin-top: 10px; }
+
+#works .col-lg-4 img{    width: 100%;    height: 300px;    padding: 10px;  }
+
+#contact img{    width: 60px;    height:60px;     max-width: 100%;  }
+
+#redes{   width:250px;max-width:100%;    border: 1px transparent solid;    height: 100%;    margin-top: 80px;  }
+
+
+#contact_description {    width: 100%;    margin: 0 auto;    float: left;    margin-left:15px; margin-top: 25px;}
+
+#contact_description p{    color:#32D0E5 !important;    font-size: 18px;    font-family: 'Acme', sans-serif;  }
+
+#contact_description span{margin-left: 20px;}
+
+.form-area{      margin: 0 auto;    max-width: 100%;     max-height: auto;   }
+
+.form-area input { height: 45px; width: 100%; border-bottom:  1px  #32D0E5 solid;border-top: transparent;}
+
+.form-area textarea { height:240px; width: 100%; max-height: 10000px; border-bottom:  1px  #32D0E5 solid;border-top: transparent;} 
+
+.form-area button{ height: 45px; width: 160px; font-weight: bold; color: white; font-family: 'Acme', sans-serif;
+
+ background:#32D0E5; border: 0;   font-size: 16px;  }
+
+.loginmodal-container {  padding: 30px;  max-width: 650px;  width: 100% !important;   
+margin: 0 auto;  border-radius: 2px;  overflow: hidden;   background: white; margin-top: 20px;}
+.loginmodal-container h1 {  text-align: justify;  font-size: 22px;  font-weight: bold; color: #32D0E5;  }
+.loginmodal-container input[type=text], input[type=password] {  height: 44px;  font-size: 16px;  width: 100%;  
+margin-bottom: 10px;  -webkit-appearance: none;background: #fff;  border: 1px solid #d9d9d9;  
+border-top: 1px solid #c0c0c0; padding: 0 8px;box-sizing: border-box;  -moz-box-sizing: border-box;}
+.loginmodal {  text-align: justify;  font-size: 16px;  font-weight: 700; height: 36px;  padding: 0 8px;}
+.loginmodal input:focus{ border: 1px #32D0E5 solid; }
+.loginmodal-submit {  border: 0px;  color: white;  font-weight: bold;  text-shadow: 0 1px rgba(0,0,0,0.1);  
+ background-color: #32D0E5;padding: 17px 0px;    font-size: 16px;  margin-top: 20px;
+ text-transform: uppercase; width: 100%; margin: 0 auto;}
+.loginmodal-container a {  text-decoration: none;  color: #666;  font-weight: 400;  text-align: justify;  
+display: inline-block;  opacity: 0.6;transition: opacity ease 0.5s;} 
+
+#perfil_foto{ max-width: 100%; width: 100%; height: 200px; border: 1px transparent solid; }
+#perfil_foto img{ max-width: 100%; width: 100%; height: 200px; border: 1px red solid; }
+#perfil_conteudo {width: 100%; height:1000px; border: 1px transparent solid; }
+#perfil_titulo{max-width: 100%; width: 100%; height: 30px;}
+#perfil_titulo h1{color:#FF6600; font-family: arial; font-size: 18px; font-weight: bold; text-decoration: none;text-align: center;}
+#perfil_status{max-width: 100%; width: 100%; height: 30px;}
+#perfil_status h2{color:lightgreen; font-family: arial; font-size: 18px; font-weight: bold; text-decoration: none;text-align: center;}
+#menu { width: 100%; height: 100%; border: 1px transparent solid; }
+#menu ul li a { color: white; font-family: arial; font-size: 16px; font-weight: bold; text-decoration: none;margin-top: -12px; }
+#menu ul {list-style: none;}
+#menu ul li {border-top: 1px white solid; height: 45px; padding: 30px;margin-left: -35px; background: #FF6600; }
+#menulateral .col-sm-3 {width: 250px; border:1px lightgray solid;max-width: 100%;}
+#listar {width: 100%;border: 1px orange solid;}
+#listar td{width: 100px;border: 1px transparent solid;}
+#listar img{width: 30px; height: 30px;}
