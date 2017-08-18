@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html>
-<html lang="pt-br"> 
+<!DOCTYPE html>
+<html lang="pt-br">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,9 +8,15 @@
     <meta name="description" content="Criação de sites, sistemas, aplicativos, lojas virtuais." />
     <meta name="keywords" content="Criação, sites, aplicativos, sistemas, lojas virtuais" />
     <meta name="author" content="Mateus Parker" />
-    <link rel="icon" type="image/png" href="image/logo_icon.png" />
+    <link rel="icon" type="image/png" href="http://www.mateusparker.oriontess.com.br/image/logo_icon.png" />
     <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <meta property="og:title" content="Mateus Pakrer - Desenvolvedor Web" />
+  <meta property="og:image" content="http://www.mateusparker.oriontess.com.br/image/logo_icon.png" />
+  <meta property="og:site_name" content="Mateus Pakrer - Desenvolvedor Web" />
+  <meta property="og:description" content="Criação de sites, sistemas, aplicativos, lojas virtuais." />
+  <meta property="og:url" content="http://www.mateusparker.oriontess.com.br/" />
     <title>Mateus Parker - Portfolio</title>    
     <link rel="stylesheet" href="css/lightbox.css">
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -109,8 +115,46 @@
        <div class="col-lg-12">
          <h1>Alguns de meus projetos</h1>
           <div class="col-lg-4">
-           <a class="example-image-link" href="Design/Site_Denis.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/Site_Denis.png" alt=""/></a>
+           <a class="example-image-link" href="Design/Adesivo_Lorenzo.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/Adesivo_Icone_Lorenzo.png" alt=""/></a>
           </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/MariaEduarda_Design_jpg.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/banner_mariaeduarda.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Refrigeracao_Design.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/banner_refrigeracao.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Cartao_Denis.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/Cartao_Denis.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Banner1_Shopping.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/icone_shopping_banner_maio.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Banner2_Shopping.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/icone_shopping_banner_plussize.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Banner3_Shopping.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/icone_shopping_banner_preparar.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Banner2_Boutique.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/Logo_Boutique.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Cenotec.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/Logo_Cenotec.png" alt=""/></a>
+          </div>
+
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Mimos.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/Mimos.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/LittleCare.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/LittleCare.png" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/Penaestrada.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/penaestrada_logo.jpg" alt=""/></a>
+          </div>
+          <div class="col-lg-4">
+           <a class="example-image-link" href="Design/MostraRob.png" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="Design_Icones/Logo_MostraRob.png" alt=""/></a>
+          </div>
+          
         </div>
     </div>
   </div>                                              
